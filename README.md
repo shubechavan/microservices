@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=25&color=3F51B5&background=FFFFFF00&center=true&vCenter=true&width=600&height=40&lines=🚀+Microservices+Backend+Boilerplate;Built+for+Scale%2C+Speed%2C+and+Simplicity;Modular+Architecture+with+RabbitMQ+%26+MongoDB;Professional+Engineering+Made+Easy" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=24&color=2E8B57&background=FFFFFF00&center=true&vCenter=true&width=600&height=40&lines=Microservices+Backend+Starter;Fast%2C+Scalable%2C+Modular;Built+with+MongoDB%2C+RabbitMQ%2C+Node.js;Ready+for+Production+Deployment" alt="Typing SVG">
 </p>
 
 
