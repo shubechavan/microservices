@@ -1,6 +1,7 @@
-🌟 Microservices 🌟
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8B57&background=F7F7F700&center=true&vCenter=true&width=435&height=20&lines=Microservices;)
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=25&color=2E8B57&background=F7F7F700&center=true&vCenter=true&width=500&height=30&lines=Microservices;A+Cutting-Edge+Project;Modern+Architecture+for+Professional+Work" alt="Typing SVG">
+</p>
+
 
   <a href="https://github.com/shubechavan/microservices/stargazers">
     <img src="https://img.shields.io/github/stars/shubechavan/microservices?color=0088cc&label=Stars" />
