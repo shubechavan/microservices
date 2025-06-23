@@ -165,7 +165,7 @@ Hit me up on [GitHub](https://github.com/shubechavan) or open an [issue](https:/
 
 ## 🔍 Tags
 
-`nodejs` `express` `microservices` `mongodb` `rabbitmq` `system-design` `cloud` `api-gateway`
+`nodejs` `express` `microservices` `mongodb` `rabbitmq` `system-design`  `api-gateway`
 
 ---
 
